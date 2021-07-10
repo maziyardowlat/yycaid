@@ -1,5 +1,10 @@
 import React from 'react'
 import './Cards.css';
+import menace7 from '../assets/menace7.jpg';
+import Amina from '../assets/Amina.jpg';
+import Carter from '../assets/Carter.jpg';
+import bean from '../assets/bean.jpg';
+import Sukhi from '../assets/Sukhi.jpeg';
 
 function AboutCard() {
     return (
@@ -12,11 +17,12 @@ function AboutCard() {
     <div class="col s12 m5">
       <div class="card">
         <div class="card-image">
-          <img src="images/menace7.jpg"/>
+          <img src={menace7}/>
           <span class="card-title">Maziyar Dowlatabadibazaz</span>
         </div>
         <div class="card-content">
-          <p>Hi there, my name is Maziyar and I am leading the yyc.aid organization this year. My goal for this year is to raise $4500 in donations 
+          <p>Hi there, my name is Maziyar and I am leading the yyc.aid organiz
+            Ohation this year. My goal for this year is to raise $4500 in donations 
             as well as to help foster an environment where the team members can grow and gain valuable skills. I am currently studying Computer Science at the University of British Colombia
             with the goal of starting my own start up in the near future. 
           </p>
@@ -26,7 +32,7 @@ function AboutCard() {
     <div class="col m5">
       <div class="card">
         <div class="card-image">
-          <img src="images/Sukhi.jpeg"/>
+          <img src={Sukhi}/>
           <span class="card-title">Sukhraj Kang</span>
         </div>
         <div class="card-content">
@@ -39,7 +45,7 @@ function AboutCard() {
     <div class="col m5">
       <div class="card">
         <div class="card-image">
-          <img src="images/bean.jpg"/>
+          <img src={bean}/>
           <span class="card-title">Tania Rizwan</span>
         </div>
         <div class="card-content">
@@ -66,7 +72,7 @@ function AboutCard() {
     <div class="col m5">
       <div class="card">
         <div class="card-image">
-          <img src="images/Amina.jpg"/>
+          <img src={Amina}/>
           <span class="card-title">Amani Assif</span>
         </div>
         <div class="card-content">
@@ -78,7 +84,7 @@ function AboutCard() {
     <div class="col m5">
       <div class="card">
         <div class="card-image">
-          <img src="images/Carter.jpg"/>
+          <img src={Carter}/>
           <span class="card-title">Carter Boucher</span>
         </div>
         <div class="card-content">
@@ -105,7 +111,7 @@ function AboutCard() {
     <div class="col m5">
       <div class="card">
         <div class="card-image">
-          <img src="images/bean.jpg"/>
+          <img src={bean}/>
           <span class="card-title">Ayo Olabode</span>
         </div>
         <div class="card-content">

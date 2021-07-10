@@ -1,12 +1,13 @@
 import React from 'react';
 import "./HeroSection.css";
 import '../App.css';
+import video23 from '../assets/video23.mp4';
 
 
 function HeroSection() {
     return (
         <div className='hero-container'>
-            <video src="/videos/video-1.mp4" autoPlay loop muted />
+            <video src={video23} autoPlay loop muted />
             <h1>Calgary Yemen Initiative</h1>
             <p>Come On and Help Out Today!</p>
             <div className="hero-btns">
