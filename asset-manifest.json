@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/yycaid/static/css/main.f8ddbc44.chunk.css",
-    "main.js": "/yycaid/static/js/main.3c446e17.chunk.js",
-    "main.js.map": "/yycaid/static/js/main.3c446e17.chunk.js.map",
+    "main.js": "/yycaid/static/js/main.12729462.chunk.js",
+    "main.js.map": "/yycaid/static/js/main.12729462.chunk.js.map",
     "runtime-main.js": "/yycaid/static/js/runtime-main.ffecc1fa.js",
     "runtime-main.js.map": "/yycaid/static/js/runtime-main.ffecc1fa.js.map",
     "static/js/2.0c435d03.chunk.js": "/yycaid/static/js/2.0c435d03.chunk.js",
@@ -14,6 +14,7 @@
     "static/media/Carter.3bc03bae.jpg": "/yycaid/static/media/Carter.3bc03bae.jpg",
     "static/media/Rayhan2.f58a43a4.JPG": "/yycaid/static/media/Rayhan2.f58a43a4.JPG",
     "static/media/Sukhi.ffa801a5.jpeg": "/yycaid/static/media/Sukhi.ffa801a5.jpeg",
+    "static/media/Taniawide.e2f5707c.jpg": "/yycaid/static/media/Taniawide.e2f5707c.jpg",
     "static/media/covid1.832206f0.png": "/yycaid/static/media/covid1.832206f0.png",
     "static/media/menace7.ee71403d.jpg": "/yycaid/static/media/menace7.ee71403d.jpg",
     "static/media/newAyo.a02d6737.jpeg": "/yycaid/static/media/newAyo.a02d6737.jpeg",
@@ -24,6 +25,6 @@
     "static/js/runtime-main.ffecc1fa.js",
     "static/js/2.0c435d03.chunk.js",
     "static/css/main.f8ddbc44.chunk.css",
-    "static/js/main.3c446e17.chunk.js"
+    "static/js/main.12729462.chunk.js"
   ]
 }
