@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.f8ddbc44.chunk.css",
-    "main.js": "/static/js/main.a8603e21.chunk.js",
-    "main.js.map": "/static/js/main.a8603e21.chunk.js.map",
+    "main.js": "/static/js/main.134e60ca.chunk.js",
+    "main.js.map": "/static/js/main.134e60ca.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ec787b5f.js",
     "runtime-main.js.map": "/static/js/runtime-main.ec787b5f.js.map",
     "static/js/2.0c435d03.chunk.js": "/static/js/2.0c435d03.chunk.js",
@@ -10,7 +10,6 @@
     "index.html": "/index.html",
     "static/css/main.f8ddbc44.chunk.css.map": "/static/css/main.f8ddbc44.chunk.css.map",
     "static/js/2.0c435d03.chunk.js.LICENSE.txt": "/static/js/2.0c435d03.chunk.js.LICENSE.txt",
-    "static/media/Amina.4d69f80d.jpg": "/static/media/Amina.4d69f80d.jpg",
     "static/media/Carter.3bc03bae.jpg": "/static/media/Carter.3bc03bae.jpg",
     "static/media/Rayhan2.f58a43a4.JPG": "/static/media/Rayhan2.f58a43a4.JPG",
     "static/media/Sukhi.ffa801a5.jpeg": "/static/media/Sukhi.ffa801a5.jpeg",
@@ -19,10 +18,6 @@
     "static/media/goodtania.4254a005.jpg": "/static/media/goodtania.4254a005.jpg",
     "static/media/menace7.ee71403d.jpg": "/static/media/menace7.ee71403d.jpg",
     "static/media/newAyo.a02d6737.jpeg": "/static/media/newAyo.a02d6737.jpeg",
-    "static/media/tania123.4dba62e6.jpg": "/static/media/tania123.4dba62e6.jpg",
-    "static/media/tania5.2112b856.jpg": "/static/media/tania5.2112b856.jpg",
-    "static/media/taniacorrect123.2d699797.jpg": "/static/media/taniacorrect123.2d699797.jpg",
-    "static/media/taniawider.8239b9ac.jpg": "/static/media/taniawider.8239b9ac.jpg",
     "static/media/video23.59e75226.mp4": "/static/media/video23.59e75226.mp4",
     "static/media/yycaid1.bb85f98e.jpg": "/static/media/yycaid1.bb85f98e.jpg"
   },
@@ -30,6 +25,6 @@
     "static/js/runtime-main.ec787b5f.js",
     "static/js/2.0c435d03.chunk.js",
     "static/css/main.f8ddbc44.chunk.css",
-    "static/js/main.a8603e21.chunk.js"
+    "static/js/main.134e60ca.chunk.js"
   ]
 }
